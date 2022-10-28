@@ -1,4 +1,3 @@
-# Create a function that takes in a DataFrame as input parameter and plots a barplot with the columns that have missing values
 import matplotlib.pyplot as plt
 import seaborn as sns
 
