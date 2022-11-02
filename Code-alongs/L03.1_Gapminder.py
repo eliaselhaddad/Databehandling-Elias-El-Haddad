@@ -17,4 +17,4 @@ fig = px.scatter(
 )
 # fig.show()
 
-fig.write_html("2.2_gapminder.html", auto_open = True)
+fig.write_html("2.2_gapminder.html", auto_open = True) # auto_open = True opens the html file in the browser
