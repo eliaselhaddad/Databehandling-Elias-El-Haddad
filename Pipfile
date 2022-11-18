@@ -22,6 +22,7 @@ python-dotenv = "*"
 dash = "*"
 dash-bootstrap-components = "*"
 gunicorn = "*"
+numexpr = "*"
 
 [dev-packages]
 
